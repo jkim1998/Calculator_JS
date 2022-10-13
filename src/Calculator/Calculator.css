@@ -1,0 +1,15 @@
+* {
+    font-size: 5vh;
+    font: 
+}
+
+table tr {
+    display: flex;
+    justify-content: center;
+    
+}
+
+button {
+    height: 10vh;
+    width: 15vw;
+}
